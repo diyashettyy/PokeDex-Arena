@@ -97,4 +97,11 @@ PokéDex Arena was created to merge the nostalgia of classic Pokémon battles wi
 * Add immersive sound and ambient effects.
 * Mobile and tablet responsive gameplay.
 
+
+<img width="1495" height="910" alt="Screenshot 2025-10-17 230252" src="https://github.com/user-attachments/assets/b7c5dfc6-fe0b-4a01-8613-8b794a3f576c" />
+
+<img width="1645" height="909" alt="Screenshot 2025-10-17 230401" src="https://github.com/user-attachments/assets/74ec448c-4bd8-4c08-8847-566ae7ff76d0" />
+
+<img width="1593" height="903" alt="image" src="https://github.com/user-attachments/assets/9f12bcd1-902d-471b-a94b-7ac0dbdd85d5" />
+
 ```
